@@ -23,7 +23,7 @@ A full-stack Machine Learning web application that predicts house prices using a
 
 ## 🔗 GitHub Repository
 
-https://github.com/Tasneem-saeed-mohamed/House-Price-Prediction
+https://github.com/mennarashedd/House-Price-Prediction
 
 ---
 
