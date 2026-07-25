@@ -1,0 +1,20 @@
+# Node
+node_modules/
+dist/
+
+# Python virtual environment
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Dataset
+*.csv
+
+# Python cache
+__pycache__/
+.ipynb_checkpoints/
